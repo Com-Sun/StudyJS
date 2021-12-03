@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Document</title>
+</head>
+<body>
+	<h2>if 조건문 1번</h2>
+	
+	<p>입력받은 숫자가 홀수인지 짝수인지를 알려주는 프로그램을 작성해 봅시다.</p>
+	<p>입력받은 문자가 대문자로 되어 있으면 '대문자 문장입니다.' 소문자로 되어 있으면 '소문자 문장입니다.' 그 외에는 '보통 문장입니다.' 라고 출력하는 프로그램을 작성해 보세요.</p>
+	
+	<script>
+		var num = Number(prompt("숫자를 입력해 보시게나. 내가 홀짝을 맞춰보지."));
+		if (num%2 == 0) {
+			alert("당신이 입력한 수는 짝수이군");
+		}
+		
+		if (num%2 != 0) {
+			alert("당신이 입력한 수는 홀수군");
+		}
+	</script>
+</body>
+</html>
