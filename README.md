@@ -19,3 +19,4 @@
 ## 구구단 구현하기 1
 
 * [2,3단 구현](./WebContent/level2/level2-1/README.md)
+* [사용자입력을 받아 4,5단 구현](./WebContent/level2/level2-2/README.md)
