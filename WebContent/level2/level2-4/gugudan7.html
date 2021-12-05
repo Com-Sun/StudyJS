@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>구구단 7</title>
+</head>
+<body>
+	<h2>조건문을 활용한 구구단 출력</h2>
+
+	<script>
+		var isTrue = true;
+		while (isTrue == true) {
+			var num = Number(prompt("2~9사이의 수를 입력해주세요."));
+			if (num >= 2 && num <= 9) {
+				isTrue = false;
+			} else {
+				alert("2이상, 9이하의 값만 입력할 수 있습니다.");
+			}
+		}
+
+		for (var i = 1; i < 10; i++) {
+			document.write(num * i + "<br>");
+		}
+	</script>
+</body>
+</html>
