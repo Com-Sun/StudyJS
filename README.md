@@ -25,4 +25,4 @@
 
 ## 배열, 함수, 객체
 
-* [소수 출력하기](./WebContent/level3/README.md)
+* [소수 출력하기](https://github.com/Com-Sun/StudyJS/tree/main/WebContent/level3)
