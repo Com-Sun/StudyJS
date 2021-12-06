@@ -28,4 +28,4 @@
 
 ## 결과물
 
-![preview](/StudyJS/img/prime.PNG)
+![](./prime.PNG)
