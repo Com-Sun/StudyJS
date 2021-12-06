@@ -1,6 +1,6 @@
 # StudyJS
 
-이 REPO는 Vanilla JS 학습을 위해 만들어졌습니다. Eclipse IDE를 사용했습니다. 학습은 다음과 같은 과정으로 진행했습니다.
+이 REPO는 Vanilla JS 학습을 위해 만들어졌습니다. 학습은 다음과 같은 과정으로 진행했습니다.
 
 실습(문제풀이) => 풀이과정에서 모르는것은 [MDN](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps)참조 + 구글링 => 정답 확인 및 review
 
