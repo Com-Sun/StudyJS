@@ -26,3 +26,7 @@
 ## 배열, 함수, 객체
 
 * [소수 출력하기](https://github.com/Com-Sun/StudyJS/tree/main/WebContent/level3)
+
+## 구구단 구현하기 2
+
+* [배열로 구구단 다시 구현](./WebContent/level4/level4-1/README.md)
