@@ -29,4 +29,4 @@
 
 ## 구구단 구현하기 2
 
-* [배열로 구구단 다시 구현](./WebContent/level4/level4-1/README.md)
+* [배열로 구구단 다시 구현](./WebContent/level4/level4-1)
