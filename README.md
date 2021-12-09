@@ -38,6 +38,7 @@
 
 * [DOM 사용해서 버튼 추가](./WebContent/level5/level5-1)
 
-## `실습`
+## [`실습`](./WebContent/level6)
 
 * [문자열 계산기](./WebContent/level6/level6-1)
+* [값 입력 및 사칙연산](./WebContent/level6/level6-2)
