@@ -1,8 +1,8 @@
 # StudyJS
 
-이 REPO는 Vanilla JS 학습을 위해 만들어졌습니다. 학습은 다음과 같은 과정으로 진행했습니다.
+이 REPO는 Vanilla JS 학습을 위해 만들어졌습니다. 학습은 [쉽고 자연스럽게 배워보는 JS 입문](https://www.inflearn.com/course/javascript-자바스크립트-codesquad-masters_lv1) 을 참고했으며, 다음과 같은 과정으로 진행했습니다.
 
-실습(문제풀이) => 풀이과정에서 모르는것은 [MDN](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps)참조 + 구글링 => 정답 확인 및 review
+실습(문제풀이) => 풀이과정에서 모르는것은 [MDN](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps) 참조 + 구글링 => reference 확인 및 review
 
 
 ## 준비단계
@@ -33,3 +33,7 @@
 * [함수로 구구단 다시 구현](./WebContent/level4/level4-2)
 * [객체로 구구단 다시 구현](./WebContent/level4/level4-3)
 * [구구단 최종미션](./WebContent/level4/level-final)
+
+## 계산기 구현 준비
+
+* [DOM 사용해서 버튼 추가](./WebContent/level5/level5-1)
