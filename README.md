@@ -37,3 +37,7 @@
 ## 계산기 구현 준비
 
 * [DOM 사용해서 버튼 추가](./WebContent/level5/level5-1)
+
+## `실습`
+
+* [문자열 계산기](./WebContent/level6/level6-1)
