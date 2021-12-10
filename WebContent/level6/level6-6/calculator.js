@@ -17,39 +17,41 @@ output = {
 };
 
 calculator = {
-    calculate: function () {
-        let isTrue = true;
+    calculate: function (first, second, op) {
         let num = 0;
-        while (isTrue) {
-            switch (input.getOperator()) {
-                case "+" :
-                    num += input.getFirstValue() + input.getSecondValue();
-                    break;
-                case "-":
-                    num += input.getFirstValue() - input.getSecondValue();
-                    break;
-                case "*":
-                    num += input.getFirstValue() * input.getSecondValue();
-                    break;
-                case "/":
-                    num += input.getFirstValue() / input.getSecondValue();
-                    break;
-                case "q":
-                    isTrue = false;
-                    break;
-                default:
-                    alert("제대로된 값을 입력해주세요")
-                    break;
-            }
+        switch (op) {
+            case "+" :
+                num += first + second;
+                break;
+            case "-":
+                num += first - second;
+                break;
+            case "*":
+                num += first * second;
+                break;
+            case "/":
+                num += first / second;
+                break;
+            default:
+                alert("제대로된 값을 입력해주세요")
+                break;
         }
         return num;
     }
 }
 
 function main() {
-    let fin;
-    fin = calculator.calculate();
-    output.print(fin);
+    let result = input.getFirstValue();
+    while (true) {
+        let op = input.getOperator();
+        if (op === "q") {
+            break;
+        }
+        let second = input.getSecondValue();
+        result = calculator.calculate(result, second, op);
+    }
+    output.print(result);
 }
+
 
 main()
