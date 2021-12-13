@@ -3,7 +3,7 @@ input.init = function (str) {
     this.list = str.split(" ");
 }
 input.empty = function() {
-    return this.list.length === 0;
+    return this.list.length === 0; //길이가 0일때만 true를 리턴
 }
 input.getValue = function () {
     let str = this.list.shift();
