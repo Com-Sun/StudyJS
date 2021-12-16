@@ -1,0 +1,20 @@
+h2 {
+    background: gold;
+}
+
+div {
+    background-color: bisque;
+    height: 50px;
+    width: 200px;
+}
+
+#result {
+    background-color: indianred;
+    height: 50px;
+    width: 50px;
+}
+
+button {
+    height: 40px;
+    width: 40px;
+}

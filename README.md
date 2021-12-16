@@ -2,8 +2,9 @@
 
 이곳은 Vanilla JS 학습을 위한 저장소입니다. 학습은 [쉽고 자연스럽게 배워보는 JS 입문](https://www.inflearn.com/course/javascript-자바스크립트-codesquad-masters_lv1) 을 참고했으며, 다음과 같은 과정으로 진행했습니다.
 
-실습(문제풀이) => 풀이과정에서 모르는것은 [MDN](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps) 참조 + 구글링 => reference 확인 및 review
+실습(문제풀이) => 풀이과정에서 모르는것은 [MDN](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps) 참조 + 구글링 => reference 확인 및 review.
 
+위의 과정에서 습득한 지식은 문서로 따로 정리.
 
 ## 준비단계
 
@@ -47,3 +48,7 @@
 * [값 입력 및 사칙연산 + 함수](./WebContent/level6/level6-5)
 * [값 입력 및 사칙연산 + 객체](./WebContent/level6/level6-6)
 * [최종](./WebContent/level6/level6-final)
+
+## [`GUI 계산기 구현 7`](./WebContent/level7/level7-1)
+
+### [개념정리](./WebContent/learned/README.md)
