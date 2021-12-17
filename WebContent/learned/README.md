@@ -36,6 +36,6 @@ HTML과 JavaScript는 완전히 다른 언어이다. 하지만 JavaScript 내에
 
 여기서, 웹 브라우저가 HTML파일을 분석하고 출력하는 방식을 **문서 객체 모델**이라고 한다.
 
-### Document 인터페이스
-
 ### Event 인터페이스
+
+이 부분에 대한 개념은 [JavaScript입문+](https://github.com/Com-Sun/learning-area) 문서에 따로 정리해놓았다.

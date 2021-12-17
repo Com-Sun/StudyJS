@@ -49,6 +49,6 @@
 * [값 입력 및 사칙연산 + 객체](./WebContent/level6/level6-6)
 * [최종](./WebContent/level6/level6-final)
 
-## [`GUI 계산기 구현 7`](./WebContent/level7/level7-1)
+## [`실습 - 계산기를 GUI로 구현 `](./WebContent/level7/level7-1) 
 
-### [개념정리](./WebContent/learned/README.md)
+### [간단 개념정리](./WebContent/learned/README.md)
