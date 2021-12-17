@@ -53,5 +53,4 @@ function main() {
     output.print(result);
 }
 
-
 main()
