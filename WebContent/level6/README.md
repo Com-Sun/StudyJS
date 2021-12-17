@@ -17,3 +17,13 @@
 * 계산 결과를 HTML에 출력하는 방법
 * 변수, 데이터 타입, 반복문, 조건문을 사용하는 방법
 * 배열, 메소드, 클래스를 활용해 프로그래밍하는 방법
+
+### 이동하기
+
+* [6-1](./level6-1/README.md)
+* [6-2](./level6-2/README.md)
+* [6-3](./level6-3/README.md)
+* [6-4](./level6-4/README.md)
+* [6-5](./level6-5/README.md)
+* [6-6](./level6-6/README.md)
+* [6-final](./level6-final/README.md)
